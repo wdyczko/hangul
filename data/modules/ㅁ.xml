@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+    <Description>Podwójne sylaby spółgłoska ㅁ</Description>
+    <Question>
+        <Hangul>미</Hangul>
+        <Pronunciation>mi</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>마</Hangul>
+        <Pronunciation>ma</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>머</Hangul>
+        <Pronunciation>moo</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>므</Hangul>
+        <Pronunciation>muu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>무</Hangul>
+        <Pronunciation>mu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>모</Hangul>
+        <Pronunciation>mo</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+</Questions>

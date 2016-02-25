@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+    <Description>Podwójne sylaby spółgłoska ㄷ</Description>
+    <Question>
+        <Hangul>디</Hangul>
+        <Pronunciation>ti</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>다</Hangul>
+        <Pronunciation>ta</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>더</Hangul>
+        <Pronunciation>too</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>드</Hangul>
+        <Pronunciation>tuu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>두</Hangul>
+        <Pronunciation>tu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>도</Hangul>
+        <Pronunciation>to</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+</Questions>

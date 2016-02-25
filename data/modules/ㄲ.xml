@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+    <Description>Podwójne sylaby spółgłoska ㄲ</Description>
+    <Question>
+        <Hangul>끼</Hangul>
+        <Pronunciation>ki</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>까</Hangul>
+        <Pronunciation>ka</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>꺼</Hangul>
+        <Pronunciation>koo</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>끄</Hangul>
+        <Pronunciation>kuu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>꾸</Hangul>
+        <Pronunciation>ku</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>꼬</Hangul>
+        <Pronunciation>ko</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+</Questions>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+    <Description>Podwójne sylaby spółgłoska ㅉ</Description>
+    <Question>
+        <Hangul>찌</Hangul>
+        <Pronunciation>dżi</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>짜</Hangul>
+        <Pronunciation>dża</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>쩌</Hangul>
+        <Pronunciation>dżoo</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>쯔</Hangul>
+        <Pronunciation>dżuu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>쭈</Hangul>
+        <Pronunciation>dżu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>쪼</Hangul>
+        <Pronunciation>dżo</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+</Questions>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+    <Description>Podwójne sylaby spółgłoska ㄴ</Description>
+    <Question>
+        <Hangul>니</Hangul>
+        <Pronunciation>ni</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>나</Hangul>
+        <Pronunciation>na</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>너</Hangul>
+        <Pronunciation>noo</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>느</Hangul>
+        <Pronunciation>nuu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>누</Hangul>
+        <Pronunciation>nu</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+    <Question>
+        <Hangul>노</Hangul>
+        <Pronunciation>no</Pronunciation>
+        <Vowel>No</Vowel>
+        <Consonant>No</Consonant>
+    </Question>
+</Questions>
